@@ -1,0 +1,15 @@
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/obj/Debug/net8.0/Prontuario.Application.csproj.AssemblyReference.cache
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/obj/Debug/net8.0/Prontuario.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/obj/Debug/net8.0/Prontuario.Application.AssemblyInfoInputs.cache
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/obj/Debug/net8.0/Prontuario.Application.AssemblyInfo.cs
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/obj/Debug/net8.0/Prontuario.Application.csproj.CoreCompileInputs.cache
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/bin/Debug/net8.0/Prontuario.Application.deps.json
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/bin/Debug/net8.0/Prontuario.Application.dll
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/bin/Debug/net8.0/Prontuario.Application.pdb
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/bin/Debug/net8.0/Prontuario.Domain.dll
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/bin/Debug/net8.0/Prontuario.Domain.pdb
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/obj/Debug/net8.0/Prontuar.EDD31FC3.Up2Date
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/obj/Debug/net8.0/Prontuario.Application.dll
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/obj/Debug/net8.0/refint/Prontuario.Application.dll
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/obj/Debug/net8.0/Prontuario.Application.pdb
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Application/obj/Debug/net8.0/ref/Prontuario.Application.dll

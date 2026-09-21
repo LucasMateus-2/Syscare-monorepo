@@ -1,0 +1,47 @@
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: prontuario-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: clinica
+      POSTGRES_USER: prontuario
+      POSTGRES_PASSWORD: prontuario
+    ports:
+      - "5432:5432"
+    volumes:
+      - prontuario_db_data:/var/lib/postgresql/data
+      - ./db/schema.sql:/docker-entrypoint-initdb.d/schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $$POSTGRES_USER -d $$POSTGRES_DB"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+
+  api:
+    build:
+      context: .
+      dockerfile: src/Prontuario.API/Dockerfile
+    container_name: prontuario-api
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__Default: "Host=db;Port=5432;Database=clinica;Username=prontuario;Password=prontuario"
+      Jwt__Secret: "troque-por-uma-string-longa-e-aleatoria-com-pelo-menos-32-chars"
+      Jwt__Issuer: "Prontuario.API"
+      Jwt__ExpiracaoHoras: "12"
+      Cors__AllowedOrigins__0: "http://localhost:5173"
+      Cookies__Secure: "false"
+      Upload__RootPath: /app/uploads
+    ports:
+      - "8080:8080"
+    volumes:
+      - prontuario_uploads:/app/uploads
+
+volumes:
+  prontuario_db_data:
+  prontuario_uploads:

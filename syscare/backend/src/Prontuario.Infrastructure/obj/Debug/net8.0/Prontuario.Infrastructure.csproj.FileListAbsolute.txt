@@ -1,0 +1,17 @@
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/bin/Debug/net8.0/Prontuario.Infrastructure.deps.json
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/bin/Debug/net8.0/Prontuario.Infrastructure.dll
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/bin/Debug/net8.0/Prontuario.Infrastructure.pdb
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/bin/Debug/net8.0/Prontuario.Application.dll
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/bin/Debug/net8.0/Prontuario.Domain.dll
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/bin/Debug/net8.0/Prontuario.Domain.pdb
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/bin/Debug/net8.0/Prontuario.Application.pdb
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/obj/Debug/net8.0/Prontuario.Infrastructure.csproj.AssemblyReference.cache
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/obj/Debug/net8.0/Prontuario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/obj/Debug/net8.0/Prontuario.Infrastructure.AssemblyInfoInputs.cache
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/obj/Debug/net8.0/Prontuario.Infrastructure.AssemblyInfo.cs
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/obj/Debug/net8.0/Prontuario.Infrastructure.csproj.CoreCompileInputs.cache
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/obj/Debug/net8.0/Prontuar.4F57547F.Up2Date
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/obj/Debug/net8.0/Prontuario.Infrastructure.dll
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/obj/Debug/net8.0/refint/Prontuario.Infrastructure.dll
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/obj/Debug/net8.0/Prontuario.Infrastructure.pdb
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Infrastructure/obj/Debug/net8.0/ref/Prontuario.Infrastructure.dll

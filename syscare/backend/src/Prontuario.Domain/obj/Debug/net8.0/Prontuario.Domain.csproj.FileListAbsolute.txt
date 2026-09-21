@@ -1,0 +1,11 @@
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Domain/bin/Debug/net8.0/Prontuario.Domain.deps.json
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Domain/bin/Debug/net8.0/Prontuario.Domain.dll
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Domain/bin/Debug/net8.0/Prontuario.Domain.pdb
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Domain/obj/Debug/net8.0/Prontuario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Domain/obj/Debug/net8.0/Prontuario.Domain.AssemblyInfoInputs.cache
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Domain/obj/Debug/net8.0/Prontuario.Domain.AssemblyInfo.cs
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Domain/obj/Debug/net8.0/Prontuario.Domain.csproj.CoreCompileInputs.cache
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Domain/obj/Debug/net8.0/Prontuario.Domain.dll
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Domain/obj/Debug/net8.0/refint/Prontuario.Domain.dll
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Domain/obj/Debug/net8.0/Prontuario.Domain.pdb
+/home/lucas/projetcs/prontuario-react (cópia)/backend/src/Prontuario.Domain/obj/Debug/net8.0/ref/Prontuario.Domain.dll
